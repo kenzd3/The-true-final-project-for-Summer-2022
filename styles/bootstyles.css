@@ -1,0 +1,28 @@
+.header{
+    height: 100px;
+    background-color:rgb(143, 185, 119);
+}
+
+.mainbody{
+    text-align: center;
+
+}
+
+.tableauPlaceholder{
+    height: 30%;
+    width: 30%;
+}
+
+.footer{
+    text-align: center;
+    background-color:darkolivegreen;
+}
+
+body{
+    background-color:rgba(240, 223, 197, 0.9);
+}
+
+.lists{
+    font-size:x-large;
+
+}
